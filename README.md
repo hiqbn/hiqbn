@@ -42,7 +42,7 @@ Limited to max of 2 referrals per IQ-160**-&-above member only.
 
 To Do:
 0. Wiki-forum & enewsletter, continually improving the foundation & constitution. (flexible within reasons)
-preview at http://highiqbusinessnetwork.com, under construction
+preview at http://hiqbn.com, under construction
 
 1. Get 98 like-minded pioneers, set committee
 
