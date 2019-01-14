@@ -75,7 +75,7 @@ We encourage everyone to leave a good afterthought or a good impression before t
 
 ---
 
-E : highiqbusinessnetwork@gmail.com
+E : admin@hiqbn.com
 
 *let's leave this open for now to imagination w/o ideologies/religion/political viewpoints.
 
