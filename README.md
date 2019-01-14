@@ -1,4 +1,4 @@
-# hiqbn
+# HiQBN - High Quotient Business Network
 HiQBN Website
 Criteria for joining this group. Open to public with facebook profile of minimum 6 months and reasonable facebook updates online. (to prevent scammers / spammers activities in group)
 
