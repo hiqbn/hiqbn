@@ -1,10 +1,13 @@
 # HiQBN - High Quotient Business Network
 
 
-Everything is under development! Yes, we copy and paste from here and there for the moment for the framework ideas BUT we are working on it. Thanks for understanding.
+# Everything is under development! Yes, we copy and paste from here and there for the moment for the framework ideas BUT we are working on it. Thanks for understanding. 
+
 
 Read our wiki here:
 https://github.com/hiqbn/hiqbn/wiki
+
+=====
 
 HiQBN Website
 Criteria for joining this group. Open to public with facebook profile of minimum 6 months and reasonable facebook updates online. (to prevent scammers / spammers activities in group)
